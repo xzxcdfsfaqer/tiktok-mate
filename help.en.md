@@ -36,7 +36,7 @@
 * ⚡ Add more automation operations
 * 🧠 Support more AI model integrations
 
-Help us decide our development focus → [Vote here](https://github.com/xzxcdfsfaqer/tiktok-mate/discussions/2)
+Help us decide our development focus → [Vote here](https://github.com/xzxcdfsfaqer/tiktok-mate/discussions/3)
 
 ---
 
