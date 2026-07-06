@@ -114,7 +114,7 @@ Simulate natural browsing behavior for account warming or content research.
 
 | Setting | Description |
 |---------|-------------|
-| Count | Number of videos to browse (max 100) |
+| Count | Number of videos to browse |
 | Speed | Operation speed — slower is more human-like |
 | Keyword | Filter videos by keyword (space-separated for multiple keywords) |
 | Ad Strategy | How to handle ad videos: Include / Ignore / Ads Only |
