@@ -1,6 +1,6 @@
 # TikTok Mate — Help & Guide
 
-> **Version:** 1.3.0  
+> **Version:** 1.2.0  
 > **Last updated:** July 6, 2026
 
 [中文版](./help.zh.md)
@@ -108,7 +108,7 @@ Send video data to DeepSeek AI for professional analysis:
 
 ### Auto Browse
 
-Simulate natural browsing behavior for account nurturing or content research.
+Simulate natural browsing behavior for account warming or content research.
 
 **Settings:**
 
@@ -127,7 +127,7 @@ Simulate natural browsing behavior for account nurturing or content research.
 3. Click **Start Now** — the extension will automatically browse videos.
 4. Click **Click to Stop** to end the session.
 
-> **Tip:** Use slow speed and enable Like/Favorite/Follow for more natural account nurturing.
+> **Tip:** Use slow speed and enable Like/Favorite/Follow for more natural account warming.
 
 ---
 
