@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 投票反馈
+## 投票反馈
 
 帮助我们做得更好 → [点击参与投票](https://github.com/xzxcdfsfaqer/tiktok-mate/discussions/2)
 
