@@ -3,7 +3,7 @@
 > **Version:** 1.3.0  
 > **Last updated:** July 6, 2026
 
-[中文版](./help.md)
+[中文版](./help.zh.md)
 
 ---
 
