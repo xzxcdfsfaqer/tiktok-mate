@@ -10,14 +10,15 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
+2. [Poll & Feedback](#poll--feedback)
+3. [Getting Started](#getting-started)
+4. [Features](#features)
    - [Data Panel](#data-panel)
    - [Download](#download)
    - [AI Analysis](#ai-analysis)
    - [Auto Browse](#auto-browse)
-4. [FAQ](#faq)
-5. [Contact](#contact)
+5. [FAQ](#faq)
+6. [Contact (TK Group)](#contact)
 
 ---
 
@@ -27,10 +28,22 @@
 
 ---
 
+## Poll & Feedback
+
+**Which feature should we prioritize next?**
+
+* 📈 Expand data types and analytical capabilities
+* ⚡ Add more automation operations
+* 🧠 Support more AI model integrations
+
+Help us decide our development focus → [Vote here](https://github.com/xzxcdfsfaqer/tiktok-mate/discussions/2)
+
+---
+
 ## Getting Started
 
 1. Install the extension and pin it to your toolbar.
-2. Open any TikTok video page.
+2. Open any TikTok video page (`http://www.tiktok.com/`).
 3. Click the extension icon to open the side panel.
 4. The panel automatically displays the current video's data.
 
@@ -122,7 +135,7 @@ Simulate natural browsing behavior for account nurturing or content research.
 
 ### Q: Why doesn't the panel show any data?
 
-Make sure you are on a TikTok video page (`https://www.tiktok.com/`). Try refreshing the page if data still doesn't appear.
+Make sure you are on a TikTok video page (`http://www.tiktok.com/`). Try refreshing the page if data still doesn't appear.
 
 ### Q: Downloads fail or don't start?
 
@@ -145,6 +158,7 @@ Yes. All processing happens locally. Video data is only transmitted to third-par
 ## Contact
 
 - **Developer Email:** wenyi2en@gmail.com
+- **WeChat ID:** tech_lao
 
 For bug reports, feature requests, or questions, please open an issue on the GitHub repository or email the developer.
 
