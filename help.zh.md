@@ -30,7 +30,13 @@
 
 ## 投票反馈
 
-帮助我们做得更好 → [点击参与投票](https://github.com/xzxcdfsfaqer/tiktok-mate/discussions/2)
+**你最希望我们优先完善哪项功能？**
+
+* 📈 扩展更多数据类型与分析能力
+* ⚡ 增加更多自动化操作
+* 🧠 支持更多 AI 大模型接入
+
+帮我们决定下一步开发重点 → [点击参与投票](https://github.com/xzxcdfsfaqer/tiktok-mate/discussions/2)
 
 ---
 
