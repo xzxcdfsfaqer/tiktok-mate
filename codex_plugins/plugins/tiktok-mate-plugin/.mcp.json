@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "tiktok-mate-mcp": {
+      "cwd": ".",
+      "command": "node",
+      "args": ["./mcp/server-stdio.js"]
+    }
+  }
+}

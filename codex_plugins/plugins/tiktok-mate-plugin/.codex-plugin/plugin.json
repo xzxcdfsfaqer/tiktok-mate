@@ -1,0 +1,26 @@
+{
+  "name": "tiktok-mate-plugin",
+  "version": "0.0.1",
+  "description": "Automate TikTok workflows through an MCP Server connected to a Chrome Extension, including account management, data collection, engagement actions, and batch automation.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "TikTok Mate",
+    "shortDescription": "An AI-powered assistant for TikTok automation and workflow management.",
+    "longDescription": "TikTok Mate connects to a Chrome Extension through an MCP Server to automate TikTok operations. It supports account management, asynchronous job execution, creator and video data collection, engagement actions such as Like, Favorite, Follow, and Comment, as well as batch workflow automation.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [
+      "tiktok-mate-account",
+      "tiktok-mate-execute-job",
+      "tiktok-mate-collect-data",
+      "tiktok-mate-interact",
+      "tiktok-mate-batch-workflow",
+      "tiktok-mate-monitor"
+    ],
+    "defaultPrompt": "Hello! I'm TikTok Mate, your AI assistant for TikTok automation.\n\nI can help you:\n• View online account status\n• Collect TikTok creator and video data\n• Perform engagement actions such as Like, Favorite, Follow, and Comment\n• Execute batch automation workflows\n\nWhat would you like to do today?"
+  }
+}
