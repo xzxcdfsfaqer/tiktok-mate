@@ -1,7 +1,7 @@
 # TikTok Mate — Help & Guide
 
-> **Version:** 1.2.0  
-> **Last updated:** July 6, 2026
+> **Version:** 1.2.1  
+> **Last updated:** July 11, 2026
 
 [中文版](./help.zh.md)
 
@@ -16,6 +16,7 @@
    - [Data Panel](#data-panel)
    - [Download](#download)
    - [AI Analysis](#ai-analysis)
+   - [Codex Access](#codex-access)
    - [Auto Browse](#auto-browse)
 5. [FAQ](#faq)
 6. [Contact (TK Group)](#contact)
@@ -24,7 +25,7 @@
 
 ## Overview
 
-**TikTok Mate** is a browser extension that enhances your TikTok experience. It displays real-time video analytics in a side panel, supports one-click downloads (no watermark), AI-powered content analysis, and automated browsing.
+**TikTok Mate** turns your browser into a powerful TikTok data analysis and automation panel. Built for creators, operators, and growth experts, it integrates DeepSeek AI intelligent analysis and the CODEX automation framework, putting data insights and batch operations at your fingertips.
 
 ---
 
@@ -103,6 +104,28 @@ Send video data to DeepSeek AI for professional analysis:
 | ⚙️ AI Custom | Custom prompt for tailored analysis |
 
 > **How it works:** Clicking an AI button opens DeepSeek Chat in a new tab and automatically inputs the video data with a professional prompt.
+
+---
+
+### Codex Access
+
+Once connected to the CODEX framework, unlock fully automated operations:
+
+- Multi-window, multi-account online simultaneously without interference
+- Simulate real user behavior — auto browse, follow, comment, DM
+- Supports COS mode for coordinated account matrix operations
+- One-click connect/disconnect, real-time control of automation tasks
+
+Designed for advanced users who need batch operations and account matrix management. See the in-plugin help documentation for details.
+
+**How to use:**
+1. Add Marketplace in Codex and enable the TikTok Mate plugin.
+   https://github.com/xzxcdfsfaqer/codex_plugins
+2. Open the TikTok Mate browser extension in Chrome and enable Codex access.
+3. Use @TikTokMate in the Codex dialog to invoke the plugin, send task commands, and wait for execution.
+
+**Video tutorial:**
+https://youtu.be/4zbhdokzORQ
 
 ---
 
